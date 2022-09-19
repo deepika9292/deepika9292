@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepika9292
 - 👀 I’m interested in Data Scientist/Data Engineer/Data Analyst roles
-- 🌱 I’m currently studying Master's in Data Science
+- 🌱 Master's in Data Science
 - 📫 How to reach me @dvasukum@stevens.edu
 
 <!---
